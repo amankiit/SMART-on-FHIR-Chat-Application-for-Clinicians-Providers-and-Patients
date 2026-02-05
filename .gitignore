@@ -1,0 +1,41 @@
+# Dependencies
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Environment files
+.env
+.env.*
+client/.env
+client/.env.*
+server/.env
+server/.env.*
+!.env.example
+!client/.env.example
+!server/.env.example
+
+# Build outputs
+dist/
+build/
+coverage/
+client/dist/
+client/build/
+server/dist/
+server/build/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Runtime data
+*.pid
+*.seed
+*.pid.lock
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
