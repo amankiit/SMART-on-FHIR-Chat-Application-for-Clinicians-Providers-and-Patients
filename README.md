@@ -55,3 +55,16 @@ Make sure MongoDB is running locally, or update `MONGODB_URI` to point to your i
 - `POST /api/conversations` creates or loads a conversation
 - `GET /api/conversations/by-code/:code` loads the patient portal view
 - `POST /api/messages` sends messages
+
+
+
+![HAUm6eza4AEU14h](https://github.com/user-attachments/assets/7ca4fe2d-fa6a-4452-b084-4fa386537558)
+![HAUm_IxaoAAJ_6R](https://github.com/user-attachments/assets/c0a97461-bf50-47db-b6ed-79d8a3865a0b)
+![HAUnFArbgAAa1iH](https://github.com/user-attachments/assets/13759b4e-b430-4b54-ade8-3a3ed0d4b968)
+![HAUnG2gaMAApwgn](https://github.com/user-attachments/assets/5557acc2-e73c-4ebd-a221-bab33b970f86)
+![HAUnPnabQAATbze](https://github.com/user-attachments/assets/e4b2d4e0-1185-4820-a305-e8583cf63fd8)
+
+
+
+
+
